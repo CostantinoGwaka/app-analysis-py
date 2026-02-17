@@ -25,8 +25,8 @@ app = FastAPI(
     """,
     version="2.0.0",
     contact={
-        "name": "Audit Intelligence Team",
-        "email": "support@auditintel.com",
+        "name": "Audit NeST Support",
+        "email": "support@nest.go.tz",
     },
     license_info={
         "name": "MIT",
